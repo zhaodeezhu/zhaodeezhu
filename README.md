@@ -1,5 +1,8 @@
 # Max
 
+Use the skills
+
+![](https://img.shields.io/badge/name-Max-brightgreen)
 
 <!--
 **zhaodeezhu/zhaodeezhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
